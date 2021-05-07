@@ -12,7 +12,7 @@
 ```javascript
 const dahlia = {
   pronouns: "she" | "her",
-  code: [Java, C++, Python, Javascript, HTML, CSS, Java, R],
+  code: [Java, C++, Python, Javascript, HTML, CSS, R],
   tools/tech/frameworks: [React, Node, Jest, ExpressJS, Bootstrap, OOP, SQL, MongoDB],
   hobbies: ["dancing", "cooking", "coding", "choreographing", "watching Tangled"],
   currentlyLearning: "Django and REST frameworks with it"
